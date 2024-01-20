@@ -13,7 +13,7 @@ Welcome to the AI Lab Files repository! This repository contains a collection of
 Artificial Intelligence is a rapidly evolving field with applications in various domains. This repository aims to provide a structured set of lab files and practical exercises to help individuals learn and apply AI concepts effectively. Whether you are a beginner or an experienced practitioner, you will find resources to challenge and enhance your skills.
 
 ## Lab Files
-The lab-files directory contains materials for theoretical exercises, code snippets, and conceptual explanations. Each lab file is organized by topic, making it easy to navigate and locate the information you need. Feel free to explore and use these files as part of your AI learning journey.
+The lab-files directory contains code snippets for the exercises given in lab.
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
