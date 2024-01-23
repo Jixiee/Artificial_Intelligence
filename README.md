@@ -14,6 +14,7 @@ Artificial Intelligence is a rapidly evolving field with applications in various
 
 ## Lab Files
 The lab-files directory contains code snippets for the exercises given in lab.
+- [PythonBasics](Codes/PythonBasics.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
