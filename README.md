@@ -4,15 +4,15 @@ Welcome to the AI Lab Files repository! This repository contains a collection of
 
 ### Table of Contents
 - Introduction
-- Lab Files
+- Codes
 - Getting Started
 - Contributing
 - License
 
 ## Introduction
-Artificial Intelligence is a rapidly evolving field with applications in various domains. This repository aims to provide a structured set of lab files and practical exercises to help individuals learn and apply AI concepts effectively. Whether you are a beginner or an experienced practitioner, you will find resources to challenge and enhance your skills.
+Artificial Intelligence is a rapidly evolving field with applications in various domains. This repository aims to provide a structured set of lab files and practical exercises to help individuals learn and apply AI concepts effectively. 
 
-## Lab Files
+## Codes
 The lab-files directory contains code snippets for the exercises given in lab.
 - [PythonBasics](Codes/PythonBasics.ipynb)
 - [Water Jug Problem](Codes/WaterJug.ipynb)
