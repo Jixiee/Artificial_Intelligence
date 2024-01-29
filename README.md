@@ -16,7 +16,7 @@ Artificial Intelligence is a rapidly evolving field with applications in various
 The lab-files directory contains code snippets for the exercises given in lab.
 - [PythonBasics](Codes/PythonBasics.ipynb)
 - [Water Jug Problem](Codes/WaterJug.ipynb)
-- [Recursive Maze Problem]
+- [Recursive Maze Problem](Codes/RecursiveMaze.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
