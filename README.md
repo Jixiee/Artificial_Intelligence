@@ -18,6 +18,7 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [Water Jug Problem](Codes/WaterJug.ipynb)
 - [Recursive Maze Problem](Codes/RecursiveMaze.ipynb)
 - [Single Player Game](Codes/GuessGame.ipynb)
+- [8 Puzzle Problem](Codes/8Puzzle_BFS.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
