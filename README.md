@@ -19,6 +19,7 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [Recursive Maze Problem](Codes/RecursiveMaze.ipynb)
 - [Single Player Game](Codes/GuessGame.ipynb)
 - [8 Puzzle Problem](Codes/8Puzzle_BFS.ipynb)
+- [8_Puzzle_Problem]
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
