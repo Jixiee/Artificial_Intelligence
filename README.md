@@ -20,6 +20,7 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [Single Player Game](Codes/GuessGame.ipynb)
 - [8 Puzzle Problem](Codes/8Puzzle_BFS.ipynb)
 - [8_Puzzle_Problem](Codes/8Puzzle_A*.ipynb)
+- [Knapsack Problem](Codes/KnapsackProblem.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
