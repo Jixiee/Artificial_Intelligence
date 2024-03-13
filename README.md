@@ -21,7 +21,10 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [8 Puzzle Problem](Codes/8Puzzle_BFS.ipynb)
 - [8_Puzzle_Problem](Codes/8Puzzle_A*.ipynb)
 - [Knapsack Problem](Codes/KnapsackProblem.ipynb)
+- [Fractional Knapsack Problem](Codes/FractionalKnapsack.ipynb)
 - [CryptArithmetic Problem](Codes/Cryptarithmetic.ipynb)
+- [Graph coloring](Codes/GraphColoring.ipynb)
+- [Min Max Search](Codes/MinMaxSearch.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
