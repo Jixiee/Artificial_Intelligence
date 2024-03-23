@@ -25,6 +25,8 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [CryptArithmetic Problem](Codes/Cryptarithmetic.ipynb)
 - [Graph coloring](Codes/GraphColoring.ipynb)
 - [Min Max Search](Codes/MinMaxSearch.ipynb)
+- [Natural Language Processing](Codes/NLP.ipynb)
+- [Bag of Words](Codes/BoW.ipynb)
 
 ## Getting Started
 To get started with the AI lab files and practicals, follow these steps:
