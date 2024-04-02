@@ -14,11 +14,10 @@ Artificial Intelligence is a rapidly evolving field with applications in various
 
 ## Codes
 The lab-files directory contains code snippets for the exercises given in lab.
-- [Single Player Game](Codes/GuessGame.ipynb)
 - [PythonBasics](Codes/PythonBasics.ipynb)
+- [Single Player Game](Codes/GuessGame.ipynb)
 - [Water Jug Problem](Codes/WaterJug.ipynb)
 - [Recursive Maze Problem](Codes/RecursiveMaze.ipynb)
-- [Single Player Game](Codes/GuessGame.ipynb)
 - [8 Puzzle Problem](Codes/8Puzzle_BFS.ipynb)
 - [8_Puzzle_Problem](Codes/8Puzzle_A*.ipynb)
 - [Knapsack Problem](Codes/KnapsackProblem.ipynb)
