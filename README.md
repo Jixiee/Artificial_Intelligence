@@ -25,7 +25,7 @@ The lab-files directory contains code snippets for the exercises given in lab.
 - [CryptArithmetic Problem](Codes/Cryptarithmetic.ipynb)
 - [Graph coloring](Codes/GraphColoring.ipynb)
 - [Min Max Search](Codes/MinMaxSearch.ipynb)
-- [Alpha Beta Pruning](Codes/AlphaBeta.ipynb)
+- [Alpha Beta Pruning](Codes/Alpha_BetaPruning.ipynb)
 - [Tic Tac Toe](Codes/TicTacToe.ipynb)
 - [Natural Language Processing](Codes/NLP.ipynb)
 - [Bag of Words](Codes/BoW.ipynb)
